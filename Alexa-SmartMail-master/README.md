@@ -1,0 +1,2 @@
+#  ALEXA Smart Mail with AWS
+There are a number of ways messages can be sent from Alexa's application. Alexa can deliver messages to a recipient's Alexa application, as well as to all   supported Echo devices associated with their Amazon account. Alexa can send typed messages only from Alexa's app. If one sends a message from an associated Echo device, it transmits as a voice message. Alexa cannot send attachments such as videos and photos.This project is an Gmail skill which can be used for conversations through mailing.
